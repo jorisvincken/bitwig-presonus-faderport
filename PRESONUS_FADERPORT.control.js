@@ -1,6 +1,6 @@
 loadAPI(1);
 
-host.defineController("Presonus", "FaderPort", "1.0", "515c9850-28e9-11e2-81c1-0800200c9a66");
+host.defineController("Presonus", "FaderPort", "1.0", "253256C0-EB4A-4ADF-837B-5EEE9F07E62E");
 host.defineMidiPorts(1, 1);
 //host.addDeviceNameBasedDiscoveryPair(["Presonus FaderPort"], ["Presonus FaderPort"]);
 
